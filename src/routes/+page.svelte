@@ -1,4 +1,4 @@
-<svelte:head>
+	<svelte:head>
 	<title>Youssef OUAMLIL</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
